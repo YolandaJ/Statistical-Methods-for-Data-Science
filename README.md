@@ -1,1 +1,6 @@
 # Data-analysis-for-patients-systolic-blood-presure
+This project is to analyze the dataset which contains one measurement of systolic blood pressure made by two methods--a finger method and an arm method- from the same 200 patients.
+
+1. Performed an exploratory analysis of the data by examing the distributions of the measurements from the two methods using boxplots. These two distributions are quite similiar so that the two methods for measurement of systolic blood pressure are reasonable.
+2. Used histograms to see data distribution in each interval, and QQ plots to examine the shapes of the two distributions. We can see that these 200 patients' blood pressure are normally distributed, and the blood pressure data made by finger method are more symmetric while data made by arm method seems like right-screwed.
+3. Constructed an appropriate 95% confidence interval for the difference in the means of the two methods to analyze the distinction of the two methods of measurement of systolic blood pressure. According to the results, we can see that the two methods are quite different. The mean of the blood pressure made by arm method is smaller than the mean of blood pressure made by finger method.
