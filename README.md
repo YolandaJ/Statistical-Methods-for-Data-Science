@@ -23,3 +23,6 @@ There is also another 2 different test hypothesis problems.
 # Built-regression-mode-and-prediction
 Built a “reasonably good” linear model for dataset, which consists of data on 97 men with advanced prostate cancer, by taking PSA level as the response variable.
 Use the final model to predict the PSA level for a patient whose predictors are at the sample means of the variables.
+
+# Statistical-Inference-by-Bootstrap
+This project is to do inference on the parameter of interest (natural logarithm of a population mean in this project) by using nonparametric bootstrap with 1000 resamples given a dataset.
