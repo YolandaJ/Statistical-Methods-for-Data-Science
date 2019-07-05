@@ -19,3 +19,7 @@ A dataset singer.txt is given.
 This project performed an exploratory analysis of the data by examining the distributions of the heights of the singers in the four group.
 In order to figure out if Bass singers tend to be taller than Tenor singers, we formulated this problem as a test of appropriate hypothesis.
 There is also another 2 different test hypothesis problems.
+
+# Built-regression-mode-and-prediction
+Built a “reasonably good” linear model for dataset, which consists of data on 97 men with advanced prostate cancer, by taking PSA level as the response variable.
+Use the final model to predict the PSA level for a patient whose predictors are at the sample means of the variables.
